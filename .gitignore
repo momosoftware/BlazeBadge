@@ -1,0 +1,5 @@
+
+*.png
+*.xcf
+*.pyc
+data/returnExample.py
